@@ -24,6 +24,10 @@ height: 50px;
 
 }
 
+.imagen{
+    padding-top: 15px;
+}
+
 .principal{
 display: flex;
 justify-content: center;
@@ -33,7 +37,6 @@ section{
 width: 50%;
 height: 400px;
 background-color: rgb(81, 151, 197);
-}}
 }
 
 
